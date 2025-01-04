@@ -84,9 +84,3 @@ The logistic regression model provides an accuracy score that indicates its perf
 - The dataset was sourced from sonar signal classification datasets like those available on platforms such as [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+rocks)).
 
 ---
-
-Feel free to customize this README further based on your specific needs!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/30821891/f062ec5a-7edd-4d1d-be67-a9d97eec0a81/Main_001-1.ipynb
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/30821891/ea53ebbd-420f-476c-877c-0f9d26be2b94/main_001.ipynb
